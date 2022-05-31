@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/qqq/Documents/University/1course/2term/PBCT/8 lab/code/Card.hpp
+string
+-
+iostream
+-
+
+/Users/qqq/Documents/University/1course/2term/PBCT/8 lab/code/Planet.hpp
+string
+-
+iostream
+-
+iterator
+-
+
+/Users/qqq/Documents/University/1course/2term/PBCT/8 lab/code/tasks.cpp
+tasks.hpp
+/Users/qqq/Documents/University/1course/2term/PBCT/8 lab/code/tasks.hpp
+
+/Users/qqq/Documents/University/1course/2term/PBCT/8 lab/code/tasks.hpp
+iostream
+-
+algorithm
+-
+fstream
+-
+vector
+-
+list
+-
+map
+-
+cmath
+-
+Planet.hpp
+/Users/qqq/Documents/University/1course/2term/PBCT/8 lab/code/Planet.hpp
+Card.hpp
+/Users/qqq/Documents/University/1course/2term/PBCT/8 lab/code/Card.hpp
+
